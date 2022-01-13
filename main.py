@@ -5,6 +5,7 @@ from IPython.display import display
 from data import *
 import random
 from colorGen import genColor
+import json
 ''' 
 Each avatar will be unique and have 5 traits
 '''
@@ -45,7 +46,7 @@ def all_images_unique(all_images):
 i=0 
 
 for item in all_images:
-	item["token_id"]=f"nft{i}"
+	item["token_id"]=f"{i}"
 	i+=1
 
 
@@ -83,14 +84,17 @@ for image in all_images:
 	nose_count[image["NOSE"]] += 1
 
 for item in all_images:
+	color = genColor()
 	im1 = Image.open(f'substrapunks-master/scripts/face_parts/face/{face_files[item["FACE"]]}.png')
 	im2 = Image.open(f'substrapunks-master/scripts/face_parts/eyes/{eyes_files[item["EYES"]]}.png')
 	im3 = Image.open(f'substrapunks-master/scripts/face_parts/ears/{ears_files[item["EARS"]]}.png')
 	im4 = Image.open(f'substrapunks-master/scripts/face_parts/hair/{hair_files[item["HAIR"]]}.png')
 	im5 = Image.open(f'substrapunks-master/scripts/face_parts/mouth/{mouth_files[item["MOUTH"]]}.png')
 	im6 = Image.open(f'substrapunks-master/scripts/face_parts/nose/{nose_files[item["NOSE"]]}.png')
-	bg = Image.new("RGBA",im5.size,color=genColor())
+	bg = Image.new("RGBA",im5.size,color=color)
 	
+	item["background"] = color
+
 	com = Image.alpha_composite(bg,im1)
 	com1 = Image.alpha_composite(com,im2)
 	com2 = Image.alpha_composite(com1,im3)
@@ -103,4 +107,10 @@ for item in all_images:
 	
 	rgb_im.save("./images/"+file_name)
 	
+METADATA_FILE = "./metadata/all_traits.json"
+
+with open(METADATA_FILE,"w") as file:
+	json.dump(all_images,file,indent=3)
+
+
 

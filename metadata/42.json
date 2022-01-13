@@ -1,0 +1,35 @@
+{
+   "tokenID": "42",
+   "image": "https://gateway.pinata.cloud/ipfs/QmWWpsdSXUrtMfLcVTEX12CCggAtJPDYG4CsM4kNqiF4yp/42.png",
+   "name": "crazyNFT-42",
+   "attributes": [
+      {
+         "trait_type": "FACE",
+         "value": "White"
+      },
+      {
+         "trait_type": "EYES",
+         "value": "small"
+      },
+      {
+         "trait_type": "EARS",
+         "value": "ears1"
+      },
+      {
+         "trait_type": "HAIR",
+         "value": "hair4"
+      },
+      {
+         "trait_type": "MOUTH",
+         "value": "m5"
+      },
+      {
+         "trait_type": "NOSE",
+         "value": "n1"
+      },
+      {
+         "trait_type": "BACKGROUND",
+         "value": "#7DD67C"
+      }
+   ]
+}

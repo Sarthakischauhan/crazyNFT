@@ -1,0 +1,502 @@
+[
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair2",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "0",
+      "background": "#DF62BF"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "1",
+      "background": "#568646"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair12",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "2",
+      "background": "#260AB1"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair12",
+      "MOUTH": "m1",
+      "NOSE": "n1",
+      "token_id": "3",
+      "background": "#3C000F"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair5",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "4",
+      "background": "#1F45DA"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "5",
+      "background": "#E33EC1"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "6",
+      "background": "#E498D8"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "7",
+      "background": "#BFC9EF"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "focused",
+      "HAIR": "hair11",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "8",
+      "background": "#43A230"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair3",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "9",
+      "background": "#0868B7"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair2",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "10",
+      "background": "#933218"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "11",
+      "background": "#F4EC1D"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m1",
+      "NOSE": "n1",
+      "token_id": "12",
+      "background": "#CB3C66"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "13",
+      "background": "#78A13D"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears2",
+      "EYES": "rayban",
+      "HAIR": "hair2",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "14",
+      "background": "#C16048"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears2",
+      "EYES": "focused",
+      "HAIR": "hair5",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "15",
+      "background": "#CFABC0"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair5",
+      "MOUTH": "m1",
+      "NOSE": "n1",
+      "token_id": "16",
+      "background": "#64D52F"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m1",
+      "NOSE": "n1",
+      "token_id": "17",
+      "background": "#5DD075"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "18",
+      "background": "#1DB171"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair10",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "19",
+      "background": "#DF6AC8"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "small",
+      "HAIR": "hair3",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "20",
+      "background": "#D6FCB5"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "21",
+      "background": "#FFB208"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears2",
+      "EYES": "focused",
+      "HAIR": "hair3",
+      "MOUTH": "m4",
+      "NOSE": "n1",
+      "token_id": "22",
+      "background": "#79A379"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "23",
+      "background": "#63D047"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears1",
+      "EYES": "focused",
+      "HAIR": "hair2",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "24",
+      "background": "#E858C0"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "rayban",
+      "HAIR": "hair3",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "25",
+      "background": "#EB39E6"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "rayban",
+      "HAIR": "hair2",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "26",
+      "background": "#F15001"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair7",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "27",
+      "background": "#D611BA"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "focused",
+      "HAIR": "hair10",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "28",
+      "background": "#84DC7A"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m6",
+      "NOSE": "n1",
+      "token_id": "29",
+      "background": "#7974AC"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair10",
+      "MOUTH": "m4",
+      "NOSE": "n1",
+      "token_id": "30",
+      "background": "#9B486A"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "focused",
+      "HAIR": "hair10",
+      "MOUTH": "m2",
+      "NOSE": "n2",
+      "token_id": "31",
+      "background": "#F8C60E"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m3",
+      "NOSE": "n2",
+      "token_id": "32",
+      "background": "#023D66"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "33",
+      "background": "#BE94D0"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears1",
+      "EYES": "regular",
+      "HAIR": "hair7",
+      "MOUTH": "m1",
+      "NOSE": "n1",
+      "token_id": "34",
+      "background": "#D847F5"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair4",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "35",
+      "background": "#60C843"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair3",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "36",
+      "background": "#1FBCDF"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m6",
+      "NOSE": "n1",
+      "token_id": "37",
+      "background": "#24BC74"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair11",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "38",
+      "background": "#0978E7"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair7",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "39",
+      "background": "#A2FCCA"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair2",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "40",
+      "background": "#781836"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "regular",
+      "HAIR": "hair2",
+      "MOUTH": "m6",
+      "NOSE": "n1",
+      "token_id": "41",
+      "background": "#25E398"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears1",
+      "EYES": "small",
+      "HAIR": "hair4",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "42",
+      "background": "#7DD67C"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair12",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "43",
+      "background": "#D079EC"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair12",
+      "MOUTH": "m3",
+      "NOSE": "n2",
+      "token_id": "44",
+      "background": "#5A8D8B"
+   },
+   {
+      "FACE": "Black",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair1",
+      "MOUTH": "m2",
+      "NOSE": "n1",
+      "token_id": "45",
+      "background": "#1CC65B"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair12",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "46",
+      "background": "#D29D39"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears2",
+      "EYES": "small",
+      "HAIR": "hair6",
+      "MOUTH": "m3",
+      "NOSE": "n1",
+      "token_id": "47",
+      "background": "#BE8540"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "regular",
+      "HAIR": "hair5",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "48",
+      "background": "#0E3569"
+   },
+   {
+      "FACE": "White",
+      "EARS": "ears3",
+      "EYES": "small",
+      "HAIR": "hair10",
+      "MOUTH": "m5",
+      "NOSE": "n1",
+      "token_id": "49",
+      "background": "#338CF1"
+   }
+]

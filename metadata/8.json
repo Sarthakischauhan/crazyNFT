@@ -1,0 +1,35 @@
+{
+   "tokenID": "8",
+   "image": "https://gateway.pinata.cloud/ipfs/QmWWpsdSXUrtMfLcVTEX12CCggAtJPDYG4CsM4kNqiF4yp/8.png",
+   "name": "crazyNFT-8",
+   "attributes": [
+      {
+         "trait_type": "FACE",
+         "value": "Black"
+      },
+      {
+         "trait_type": "EYES",
+         "value": "focused"
+      },
+      {
+         "trait_type": "EARS",
+         "value": "ears3"
+      },
+      {
+         "trait_type": "HAIR",
+         "value": "hair11"
+      },
+      {
+         "trait_type": "MOUTH",
+         "value": "m3"
+      },
+      {
+         "trait_type": "NOSE",
+         "value": "n1"
+      },
+      {
+         "trait_type": "BACKGROUND",
+         "value": "#43A230"
+      }
+   ]
+}
